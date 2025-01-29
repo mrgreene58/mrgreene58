@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there my name is Justin Greene 👋
+<h1>Hi, I'm Justin, an <a href="https://www.linkedin.com/in/justin-greene-774217220/">IT Professional</a>☺</h1>
 
-<!--
-**mrgreene58/mrgreene58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/mrgreene58/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/mrgreene58/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/mrgreene58/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mrgreene58/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mrgreene58/azure-network-protocols)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
